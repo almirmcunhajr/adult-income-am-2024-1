@@ -7,6 +7,9 @@ name = "pypi"
 ucimlrepo = "*"
 scikit-learn = "*"
 pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+category-encoders = "*"
 
 [dev-packages]
 ipykernel = "*"
